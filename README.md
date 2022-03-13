@@ -1,4 +1,4 @@
-# NeoVim Config file
+# [Alacritty](https://github.com/alacritty/alacritty) Config file
 
 ![img](./preview.png)
 
